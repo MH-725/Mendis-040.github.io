@@ -2,9 +2,6 @@
 # Enhanced Portfolio Website with Database Intergration
 Welcome to my enhanced portfolio website! This showcases my work and skills. It,s built using HTML,CSS,JavaScript and PHP, with the addition of a database to manage dynamic content.
 
-# Demo
-You can see a live demo of the website using the URL:
-
 # Features
 -Dynamic Project Showcase: Projects are fetched from the database, allowing easy addition and management of projects.
 
